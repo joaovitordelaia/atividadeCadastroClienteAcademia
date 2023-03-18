@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\academiaRegistro\bin\Debug\academiaRegistro.exe.config
+C:\Users\usuario\source\repos\academiaRegistro\bin\Debug\academiaRegistro.exe
+C:\Users\usuario\source\repos\academiaRegistro\bin\Debug\academiaRegistro.pdb
+C:\Users\usuario\source\repos\academiaRegistro\obj\Debug\academiaRegistro.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\academiaRegistro\obj\Debug\academiaRegistro.exe
+C:\Users\usuario\source\repos\academiaRegistro\obj\Debug\academiaRegistro.pdb
